@@ -1,16 +1,22 @@
-## Hi there 👋
+# Rylen Sampson, MSc
+## 🏡 Welcome to My GitHub Profile!
+I'm Rylen Sampson, a trained data scientist and machine learning enthusiast with a Master's degree in Computing Science from Simon Fraser University. I'm currently on the lookout for exciting job opportunities where I can leverage my expertise in Python, data science, and machine learning within sustainability or healthcare.
 
-<!--
-**Rasamps/rasamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌊 About Me
+Background: I have a strong foundation in data science and machine learning with hands-on experience in various research and professional projects. This experience includes delivering business-ready NLP models, conducting statistical analyses and sharing prominent results with stakeholders, and modifying existing machine learning techniques to overcome problem-specific barriers in a research setting.
 
-Here are some ideas to get you started:
+Skills: Proficient in Python, R, SQL, and other mathematical and statistical languages and libraries, including NumPy, PyTorch, HuggingFace, and Pandas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests: Passionate about environmental tech and looking to contribute to projects that drive sustainability and positive environmental change. Bonus points for ocean-related projects!
+
+## ⚙️ Working On...
+- learning the basics of geographic analysis in Python with libraries such as Arcpy, GeoPandas, and Dash.
+- a carbon intensity index (CII) calculator. While the equation is complex and relies on having vessel data points, there is currently no dashboard with simulations to enlighten ship owners.
+
+## 📚 Education
+- Master of Science in Computing Science from Simon Fraser University
+- Bachelor of Science (Honours) in Mathematics, Minor in Computing from Queen’s University
+
+## 📫 Let's Connect
+- Email
+- LinkedIn
