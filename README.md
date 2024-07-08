@@ -14,8 +14,8 @@ Interests: Passionate about environmental tech and looking to contribute to proj
 - a carbon intensity index (CII) calculator. While the equation is complex and relies on having vessel data points, there is currently no dashboard with simulations to enlighten ship owners.
 
 ## 📚 Education
-- Master of Science in Computing Science from Simon Fraser University
-- Bachelor of Science (Honours) in Mathematics, Minor in Computing from Queen’s University
+- **Master of Science in Computing Science** from Simon Fraser University
+- **Bachelor of Science (Honours) in Mathematics**, Minor in Computing from Queen’s University
 
 ## 📫 Let's Connect
 - [Email](rylen.s3@outlook.com)
