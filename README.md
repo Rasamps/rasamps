@@ -18,5 +18,5 @@ Interests: Passionate about environmental tech and looking to contribute to proj
 - Bachelor of Science (Honours) in Mathematics, Minor in Computing from Queen’s University
 
 ## 📫 Let's Connect
-- Email
-- LinkedIn
+- [Email](rylen.s3@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/rylensampson/)
